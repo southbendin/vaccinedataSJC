@@ -1,5 +1,5 @@
 
-Exploratory plots and statistics of vaccination counts in St. Joseph County Indiana
+#Exploratory plots and statistics of vaccination counts in St. Joseph County Indiana
 
  The City of South Bend, St. Joseph County, and enFocus work each week to run analytics on State of Indiana vaccine dose data from the Indiana Gateway portal (Updated each Friday). We're sharing the scripts we use to de-identify and analyze the data for local decisionmakers, community organizers, and public health workers.
  
